@@ -1,0 +1,11 @@
+Action
+Drama
+Horror
+Action
+Thriller
+Comedy
+Horror
+Romance
+Fantasy
+Action
+Documentary
